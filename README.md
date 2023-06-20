@@ -1,1 +1,3 @@
-# dsa_visualizer
+# Algorithm Visualizer
+
+
